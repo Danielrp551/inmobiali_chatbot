@@ -1,0 +1,5 @@
+# Ignorar archivo de api keys 
+api_keys.py
+
+# Ignorar el cache de Python
+__pycache__/
